@@ -1,0 +1,4 @@
+﻿  Lab_6.6.cpp
+C:\Users\Maria\source\repos\Lab_6.6\Lab_6.6\Lab_6.6.cpp(16,20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Maria\source\repos\Lab_6.6\Lab_6.6\Lab_6.6.cpp(49,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Lab_6.6.vcxproj -> C:\Users\Maria\source\repos\Lab_6.6\Debug\Lab_6.6.exe
